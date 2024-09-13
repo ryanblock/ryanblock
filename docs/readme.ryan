@@ -1,0 +1,116 @@
+# readme.ryan
+
+> A personal operating manual for Ryan
+
+I was first introduced to personal operating manuals by my amazing wife, [Veronica Belmont](https://veronicabelmont.com/), when she was in product leadership under my amazing pal, [Timoni West](https://www.timoni.org).
+
+As with most things, I hope we can all assume good faith, but let's also be clear up front: *a personal operating manual is not a disclaimer against future bad behavior*. Ok, cool, glad we're on the same page there.
+
+---
+
+## Core beliefs
+
+Here are a few core beliefs I hold about work(ing together):
+
+
+### Feedback is an amazing gift
+
+Thoughtful, timely feedback offered in good faith is perhaps the greatest gift we can offer one another – even, and perhaps especially, when it's the kind of feedback that's challenging to hear. I assume the best in others, especially since feedback is often harder to give than to receive.
+
+> "If you are always trying to be normal, you will never know how amazing you can be." -Maya Angelou
+
+
+### Change your mind
+
+Our industry is in constant change, and to succeed we must strive toward maximum correctness – even if that's a fleeting state. There's always a good chance we know less than we think we do (or at least I do, anyway!), so it helps to be open to challenging our existing held assumptions and beliefs in service of learning and discovering new things.
+
+> "When my information changes, I change my mind. What do you do?" -Milton Keynes
+
+
+### Pretty good enough
+
+Perfection is an illusory state, and for those that care deeply about their craft, attempting to achieve idealized solutions can prevent us from learning valuable and unexpected things along the way. (See also: the nirvana fallacy.) Instead, I believe we should strive to do a pretty good enough job to start, with an ongoing commitment to continuously iterating, improving, and learning.
+
+> "In the beginner's mind there are many possibilities, in the expert's mind there are few." -Shunryu Suzuki
+
+
+### Do, then learn
+
+While failure isn't the only teacher, it's an inevitable component of growth. Failing in front of our peers already feels scary enough, and that's only exacerbated when teams treat failure as an intolerable outcome. I believe we should strongly encourage taking calculated risks, striving for excellence in execution based on the best information we have. And when setbacks occur – as they always do – acknowledge them early, pivot quickly, and learn deeply.
+
+> "An essential aspect of creativity is not being afraid to fail." -Edwin Land
+
+
+### Be excellent to each other
+
+Each of us deserves to be treated excellently, and in turn to have the opportunity to be our best selves to everyone around us. To me, that means everything from assuming positive intentions in our interactions with others, to each of us taking all possible measures for living a full, and fulfilled life outside of work.
+
+> "How you gonna win when you ain't right within?" –Lauryn Hill
+
+---
+
+## Working with me
+
+The following bits are a bit more specific when it comes to who I am, and how I work:
+
+
+### A bit about me
+
+- I care deeply about respecting one another's time; if I'm not using yours well, please let me know!
+- I believe in the compound effects of investing in quality – improve as we go, even (perhaps especially!) the little things.
+- I am an extremely visual thinker; I often have difficulty in verbal descriptions of complex subjects, so jumping straight into code, a deck, a diagram, etc. is a big mental shortcut for me.
+- I'm an introvert with extroverted tendencies. I deeply enjoy the company of smart people like you, but I tend to fade quickly and need time to recharge.
+- I strongly prefer to delegate, even if I sometimes don't do the best job at it. Please never be afraid to step forward and take ownership!
+- I prefer to be outside, and will probably nudge us to try to be there, if possible.
+- I'll probably add Oxford commas to your Google Doc.
+
+
+### Disagreement
+
+I believe disagreement is where the best solutions are born, and that high functioning disagreement is how the best teams arrive at maximum correctness. We should freely challenge opinions and beliefs (see also: [Change your mind](#change-your-mind)), but ultimately we'll need to arrive at a conclusion, and on that my general principle is: the individual(s) most responsible for something should probably make the call. However, there are sometimes outside or complicating factors, in which case I may ask that we [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
+
+
+### Communicating
+
+Workplace chat (Slack, etc.) is my preferred means of most communication, but I also feel it's a highly lossy, low-bandwith communication medium. If we're chatting about something complex or nuanced, expect that after a short while (usually 5-10 minutes) I'll ask to take it to voice for a few minutes. Don't worry, we can (and should) keep it quick.
+
+I may send or respond to chat messages, email, etc., at odd hours. Unless it's denoted as something urgent, I encourage you not to read or respond to it until later.
+
+
+### Meetings
+
+- I prefer to cluster meetings toward the beginning of the day, and promote uninterrupted time to accomplish things in the afternoon.
+  - Related: I don't consider upgrading a chat into a voice call to be a meeting, per se.
+- When having a meeting discussing solutions, a direction, etc., be kicked off by classifying it as a *debate* or *decide* (or both) meeting, so we understand the expected outcome.
+- I believe meetings should have a clear purpose or agenda, and should include the bare minimum number of folks necessary; *just checking in* and other basic status updates should probably be done async.
+
+
+### How I manage
+
+I view the crux of good management is to be an empathetic accelerant and facilitator – you should be happy and stoked to execute and learn at maximum velocity (while working a reasonable, and ideally flexible, schedule).
+
+Likewise, if you're slowed or blocked, I can't contribute to keeping us moving forward if you're suffering in silence. So please loop me in as soon as possible.
+
+
+### Investing in quality
+
+While I believe in operational excellence, and feel it's important to take the time necessary to set ourselves up for long-term success. I don't adhere to many hard and fast rules around what quality delivery means (see also: [Pretty good enough](#pretty-good-enough)), but insofar as it's helpful, here are a few approaches that have served me well, and which I often espouse:
+
+- What our customers say they want can be surprisingly different from what they show us they need. It's our job to understand both.
+- Minimum viability shouldn't mean "the earliest version that can feasibly ship", it should mean "the earliest version that our customers would feasibly accept". (I acknowledge that figuring out the difference can be quite tricky!)
+- Early first versions that are continually improved seem to have a higher success correlation than highly polished versions that aren't updated.
+- It's always important for critical paths to ship with reasonably thorough test suites.
+- Quality of delivery seems to correlate with how high functioning the team is that delivered it.
+
+---
+
+### Ask me about
+
+- My kiddo, Julian
+- Climbing and/or climbing history
+- Werewolf vs. Diplomacy
+- Who I’d rather be trapped in a car with: Steve Jobs or Bill Gates
+- What it’s like being @ryan on the dumpster fire formerly known as Twitter
+- Whatever's on your mind
+
+<!-- vim: syntax=Markdown -->
